@@ -1,0 +1,5 @@
+name: SeptyrTimer
+main: com.Septyr.David.SeptyrTimer.SeptyrTimer
+version: 1.1
+author: David Jacquish
+description: API for easy timers
